@@ -578,7 +578,7 @@
             <dependency>
                 <groupId>org.testng</groupId>
                 <artifactId>testng</artifactId>
-                <version>${testng.version}</version>
+                <version>3.8</version>
             </dependency>
             <dependency>
                 <groupId>org.wso2.am</groupId>
