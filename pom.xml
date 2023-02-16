@@ -172,16 +172,7 @@
                         <obrRepository>NONE</obrRepository>
                     </configuration>
                 </plugin>
-                <plugin>
-                    <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-compiler-plugin</artifactId>
-                    <version>3.9.0</version>
-                    <configuration>
-                        <release>8</release>
-                        <verbose>true</verbose>
-                    </configuration>
-                </plugin>
-                <plugin>
+                   <plugin>
                     <groupId>org.codehaus.mojo</groupId>
                     <artifactId>build-helper-maven-plugin</artifactId>
                     <version>1.9.1</version>
